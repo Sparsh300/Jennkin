@@ -1,4 +1,4 @@
-pipline{
+pipeline{
     agent any 
     environment {
         DIRECTORY_PATH = "/Users/sparshdeepsingh/Documents/Jenkins/first.Jenkinsfile"
